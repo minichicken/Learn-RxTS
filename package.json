@@ -1,0 +1,30 @@
+{
+  "name": "learn-rxts",
+  "version": "1.0.0",
+  "description": "Learn RxJS with TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minichicken/Learn-RxTS.git"
+  },
+  "keywords": [
+    "RxJS",
+    "TypeScript"
+  ],
+  "author": "Jaeho Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minichicken/Learn-RxTS/issues"
+  },
+  "homepage": "https://github.com/minichicken/Learn-RxTS#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
